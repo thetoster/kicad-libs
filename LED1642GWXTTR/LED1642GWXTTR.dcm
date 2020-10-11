@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED1642GWXTTR
+D LED Driver,16CH,error detect,5V TSSOP EP
+K
+F http://www.st.com/web/en/resource/technical/document/datasheet/DM00080246.pdf
+$ENDCMP
+#
+#End Doc Library
